@@ -6,7 +6,7 @@ body{
 }
 
 h1{
-  margin: 50px auto 0 auto;
+  margin: 3.125rem auto 0 auto;
   font-size: 5.625rem;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
@@ -16,10 +16,11 @@ h2{
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
   color: #66BFBF;
-  padding-bottom: 10px
+  padding-bottom: 0.625rem
 }
 
 h3{
+  font-size: 1.17rem;
   font-family: 'Montserrat', sans-serif;
   color: #11999E
 }
@@ -27,7 +28,7 @@ h3{
 a{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  margin: 20px 10px;
+  margin: 1.25rem 0.625rem;
   text-decoration: none;
   font-weight: bold;
 }
@@ -44,11 +45,11 @@ hr{
   border: dotted 0.4rem #EAF6F6;
   border-bottom: none;
   width: 3rem;
-  margin: 100px auto;
+  margin: 6.25rem auto;
 }
 
 .top{
-  padding-top: 100px;
+  padding-top: 6.25rem;
   background-color: #E4F6F6;
   position: relative;
  }
@@ -66,7 +67,7 @@ hr{
  }
 
 .middle-container{
-  margin: 100px 0;
+  margin: 6.25rem 0;
 }
 
 .user{
@@ -79,32 +80,32 @@ hr{
 }
 
 .skill-row{
-  width: 50%;
-  margin: 100px auto 100px auto;
+  width: 50rem;
+  margin: 6.25rem auto 6.25rem auto;
   text-align: left;
 }
 
 .html{
   width: 10rem;
   float: left;
-  margin-right: 30px;
+  margin-right: 1.875rem;
 }
 
 .css{
   width: 10rem;
   float: right;
-  margin-left: 30px;
+  margin-left: 1.875rem;
 }
 
 .js{
   width: 10rem;
   float: left;
-  margin-right: 30px;
+  margin-right: 1.875rem;
 }
 
 .contact-msg{
   width: 25rem;
-  margin: 40px auto 60px;
+  margin: 2.5rem auto 3.75rem;
 }
 
 .online{
@@ -153,11 +154,11 @@ hr{
 
 .bottom-container{
   background-color: #66BFBF;
-  padding: 50px 0 20px;
+  padding: 3.125rem 0 1.25rem;
 }
 
 .copyright{
   color: #EAF6F6;
-  font-size: 0.75rem;
-  padding: 20px 0;
+  font-size: 0.75rem 625rem;
+  padding: 1.25rem 0;
 }
